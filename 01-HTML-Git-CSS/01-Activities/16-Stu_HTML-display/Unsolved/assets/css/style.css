@@ -23,7 +23,7 @@ li {
 img {
   /* TODO: Add your code here */
   margin: 0 auto;
-  display: flex;
+  display: block;
 }
 
 #item-1 {
